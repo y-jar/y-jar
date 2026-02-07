@@ -10,4 +10,4 @@
 ### My Goals in Tech
 
 - Learning how things work
-- flexing things i am a compleate novice on. #idiocy
+- flexing things i am a complete novice on. #idiocy
