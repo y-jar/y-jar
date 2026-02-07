@@ -6,3 +6,8 @@
 - @sc How to reach me: calling on my cacti
 - abc? Pronouns: she/Woman lover
 - :/ Fun fact: I give everything names
+
+### My Goals in Tech
+
+- Learning how things work
+- flexing things i am a compleate novice on. #idiocy
