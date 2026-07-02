@@ -61,7 +61,7 @@
   - App Troubleshooting
   - OS Troubleshooting
   - Virtual Mechine Management and Creation `[ongoing]`
-  - Documentation Basic and able to read `:)`
+  - Documentation Basics and able to read `:)`
   - Shell Scripting `fun stuff`
 </details>
 
